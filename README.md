@@ -1,2 +1,2 @@
 # rsschool-cv
-rolling-scopes
+https://prolutic.github.io/rsschool-cv/cv
